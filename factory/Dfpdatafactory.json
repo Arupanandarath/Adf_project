@@ -1,0 +1,9 @@
+{
+	"name": "Dfpdatafactory",
+	"location": "southeastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8551bd46-a954-4afd-aa06-387a8a6516cd",
+		"tenantId": "f90278e6-d587-4a7b-bf14-9330b6cb80a0"
+	}
+}
